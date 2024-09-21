@@ -42,11 +42,3 @@ To use the `autoupgrades.sh` script, follow these steps:
     ```sh
     git clone https://github.com/mhayo/scripts.git
     ```
-2. Navigate to the script directory:
-    ```sh
-    cd /scripts
-    ```
-3. Make the script executable:
-    ```sh
-    chmod +x autoupgrades.sh
-    ```
