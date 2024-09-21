@@ -11,8 +11,6 @@ Welcome to the System Administration Scripts portfolio project. This repository 
 - [Usage](#usage)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
