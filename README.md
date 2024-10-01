@@ -28,6 +28,11 @@ To use the `autoupgrades.sh` script, follow these steps:
 1. Open a terminal.
 2. Execute the commands with appropriate permissions 
 
+### Password reset (RHEL based Linux)
+
+Instructions to reset the root password in Red Hat Enterprise Linux by booting into single-user mode
+and performing necessary system changes
+
 ## Requirements
 
 - Unix-based operating system
