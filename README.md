@@ -29,9 +29,12 @@ To use the `autoupgrades.sh` script, follow these steps:
 2. Execute the commands with appropriate permissions 
 
 ### Password reset (RHEL based Linux)
+# reset_pwd.sh
 
+## Description
 Instructions to reset the root password in Red Hat Enterprise Linux by booting into single-user mode
 and performing necessary system changes
+
 
 ## Requirements
 
