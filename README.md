@@ -8,7 +8,7 @@ Welcome to the System Administration Scripts portfolio project. This repository 
 - [Introduction](#introduction)
 - [Scripts](#scripts)
   - [Autoupgrade Script](#autoupradescript)
-  - [Password reset] (#reset_pwd.sh)
+  - [Password reset](#password-reset)
 - [Usage](#usage)
 - [Requirements](#requirements)
 - [Installation](#installation)
