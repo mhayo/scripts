@@ -9,6 +9,7 @@ Welcome to the System Administration Scripts portfolio project. This repository 
 - [Scripts](#scripts)
   - [Autoupgrade Script](#autoupradescript)
   - [Password reset](#password-reset)
+  - [Find Files Complex Condition](#find-files-complex-condition)
 - [Usage](#usage)
 - [Requirements](#requirements)
 - [Installation](#installation)
@@ -36,6 +37,19 @@ To use the `autoupgrades.sh` script, follow these steps:
 Instructions to reset the root password in Red Hat Enterprise Linux by booting into single-user mode
 and performing necessary system changes
 
+### Find Files Complex Condition
+# find_files_complex_condition.sh
+
+## Description
+The `find_files_complex_condition.sh` script finds all ASCII text files in the current directory and subdirectories, checks their size, and prints out the content of the files that are exactly 1033 bytes in size. The script handles filenames with spaces and other special characters safely.
+
+## Usage
+To use the `find_files_complex_condition.sh` script, follow these steps:
+1. Open a terminal.
+2. Execute the following command:
+    ```sh
+    ./find_files_complex_condition.sh
+    ```
 
 ## Requirements
 
@@ -49,3 +63,4 @@ and performing necessary system changes
     ```sh
     git clone https://github.com/mhayo/scripts.git
     ```
+
