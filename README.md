@@ -1,7 +1,7 @@
 # scripts
 # System Administration Scripts
 
-Welcome to the System Administration Scripts portfolio project. This repository contains a collection of scripts designed to assist with various system administration tasks. These scripts are intended to automate routine tasks, improve efficiency, and ensure consistency across different environments.
+This repository contains a collection of scripts designed to assist with various system administration tasks. These scripts are intended to automate routine tasks, improve efficiency, and ensure consistency across different environments.
 
 ## Table of Contents
 
